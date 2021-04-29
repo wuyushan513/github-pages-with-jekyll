@@ -1,1 +1,7 @@
-This is Wuyushan's blog! Ha!
+---
+	
+title: "Wuyushan's blog"
+	
+date: 2020-4-29
+
+---
